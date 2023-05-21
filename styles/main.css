@@ -1,0 +1,98 @@
+
+body{
+    background-image: url(../ocean-background-vector.jpg);
+    background-size: cover;
+}
+
+/* .allFish{
+
+ 
+
+} */
+
+.fishTuna{
+    text-align: left;
+ 
+}
+
+.fishSalmon{
+  
+    text-align: left;
+}
+
+.sTxt{
+    text-align: left;
+    list-style: none;
+}
+
+.tDivTxt{
+  
+    text-align: center;
+    
+
+}
+
+.Slists{
+
+    
+    list-style: none;
+    color: white;
+    font-family: fantasy;
+
+    
+
+}
+
+.Tlists{
+
+    list-style:none;
+    color: white;
+    font-family: fantasy;
+
+}
+
+.tunaFishImg{
+
+width: 500px;
+height: 350px;
+
+
+}
+
+.locate{
+
+    color: white;
+    list-style: none;
+
+}
+
+.local{
+
+   float:right;
+    color: white;
+    text-align: center;
+    margin-right: 500px;
+    list-style: none;
+
+}
+/* 
+.locations{
+
+} */
+
+.quoting{
+
+    float: right;
+    color: white;
+
+
+}
+
+.quotes{
+
+    padding: 0px;
+    margin-right: 500px;
+    list-style: none;
+    margin-top: 100px;
+
+}
